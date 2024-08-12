@@ -1,0 +1,28 @@
+span{
+font-weight: bold;
+}
+.image{
+width: 300px;
+}
+#details{
+width: 300px;
+padding: 10px;
+border: 1px solid #cccccc;
+box-shadow: 5px 5px rgba(119,101,101, 0.3)
+  }
+.picture{
+width: 300px;
+}
+
+#information{
+border: 1px solid #cccccc;
+margin: 0px;
+padding: 10;
+border: 1px solid #ccccccc;
+.fact{
+font-style: italic;
+  }
+.mylist{
+list-style-type: none;
+padding: 0px;
+}
