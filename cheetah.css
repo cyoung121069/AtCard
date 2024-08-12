@@ -1,0 +1,12 @@
+.picture{
+width: 300px;
+}
+#card{
+width: 300px;
+padding: 10px;
+border: 1px solid #cccccc;
+box-shadow: 5px 5px
+  }
+.fact{
+font-style: italic;
+  }
